@@ -1,0 +1,22 @@
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+C++ Build Artifacts
+
+build/
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+IDEs
+
+.vscode/
+.idea/
+*.swp
