@@ -39,7 +39,7 @@ Before you begin, ensure you have:
 
 3. **Add the upstream repository**:
    ```bash
-   git remote add upstream https://github.com/ORIGINAL-OWNER/darwin-fuzz.git
+   git remote add upstream https://github.com/RahulMalik22/darwin-fuzz.git
    ```
 
 4. **Install Python dependencies**:
