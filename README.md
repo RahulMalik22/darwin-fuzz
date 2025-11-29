@@ -393,7 +393,6 @@ Built with:
 
 - **Issues**: [GitHub Issues](https://github.com/RahulMalik22/darwin-fuzz/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/RahulMalik22/darwin-fuzz/discussions)
-- **Email**: [Your email if you want to share]
 
 ---
 
